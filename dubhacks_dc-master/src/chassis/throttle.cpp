@@ -1,0 +1,9 @@
+//340 < forward 529, 299 < neutral < 309. 250 < Reverse < 290, 50Hz PWM
+//ONLY ACCELERATION ALLOWED. DO NOT MAKE DRASTIC CHANGES TO PWM
+#define FORWARD_MAX 529
+#define FORWARD_MIN 340
+#define NEUTRAL 307
+#define REVERSE_MAX 250
+#define REVERSE_MIN 290
+
+//pca9685->setPWM(1,0,servoMin) ;

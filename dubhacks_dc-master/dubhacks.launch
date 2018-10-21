@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="dubhacks" name="convolve" type="dubhacks_node" output="screen" />
+	<node pkg="dubhacks" name="test_pub" type="test_pub.py" output="screen" />
+</launch>
+
