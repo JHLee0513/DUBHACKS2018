@@ -1,2 +1,2 @@
-# DUBHACKS2018
-Building autonomous RC vehicle with PCA9685 and Nvidia tx2 Jetson
+# DUBHAX RC CAR
+It's a ROS project so you gotta install ROS and follow the instructions here to set it up: http://wiki.ros.org/ROS/Tutorials/CreatingPackage
